@@ -25,7 +25,7 @@ public:
 };
 
 // Memoization
-//O(mn) 
+//time ans space->O(mn) 
 class Solution{
 public:
     int rec(string x,string y,int n,int m,vector<vector<int>>&t){
