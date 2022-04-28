@@ -2,7 +2,7 @@
 // y= a b f d g h r
 // longest common subsequence-> a b d g h  , have to return length
 // longest common substring-> a b 
-// brute force approach will be O(n * 2n)
+// brute force approach will be O(n * 2^n)
 // naive recursive approach is O(2^n) bcoz at every step we have 2 choices
 
 // Recursive
